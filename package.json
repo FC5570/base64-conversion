@@ -1,0 +1,25 @@
+{
+  "name": "base64-conversion",
+  "version": "1.0.0",
+  "description": "A module for encoding and decoding text to and from base64.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FC5570/base64-conversion.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "base64",
+    "base"
+  ],
+  "author": "FC5570",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FC5570/base64-conversion/issues"
+  },
+  "homepage": "https://github.com/FC5570/base64-conversion#readme"
+}
